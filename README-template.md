@@ -18,7 +18,7 @@ First Project about creating a page with a QR Code using HTML5 and CSS3.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/DamMembrive/Qrcode_HTML_CSS.git
 
 ## My process
 
